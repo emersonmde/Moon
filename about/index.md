@@ -7,7 +7,7 @@ comments: false
 ---
     
 ## Overview
-I'm a 26 year old Software Developer, single father, and technology enthusiast. The center of my world is my 7 year old daughter, Lillian. I'm also a huge proponent of science and enducation. I love to learn, discover new facts, and investigate how things work.
+I'm a 26 year old Software Developer, single father, and technology enthusiast. The center of my world is my 7 year old daughter, Lillian. I'm also a huge proponent of science and education. I love to learn, discover new facts, and investigate how things work.
 
 ## Education
 I graduated from a vocational technical high school, **Howard High School of Technology**, in 2008. My vocation was Computer Network Administration Program wherein I also received my **A+**, **Network+**, and **MCP** certifications.
