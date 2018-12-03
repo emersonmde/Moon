@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: "XyOS Kernel"
 date: 2018-11-30
 excerpt: "Creating a new operating system"
