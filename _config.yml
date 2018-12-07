@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://emersonmde.github.io
+url:                https://xylite.io
 
 # Jekyll
 permalink:          /:title/
@@ -40,7 +40,11 @@ disqus_shortname:   emersonmde
 email: emersonmde@protonmail.com
 github-url: emersonmde
 linkedin: matthew-emerson-65038b121
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     123456/username   from a "
+
+
+
+://stackoverflow.com/users/123456/username" link
 #xing:              username
 #instagram:          username
 #lastfm:            username
