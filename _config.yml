@@ -9,6 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://xylite.io
+#url:                http://127.0.0.1:4000
 
 # Jekyll
 permalink:          /:title/
@@ -39,6 +40,7 @@ disqus_shortname:   emersonmde
 #bing-verify:
 email: emersonmde@protonmail.com
 github-url: emersonmde
+hackerrank: emersonmde
 linkedin: matthew-emerson-65038b121
 #stackoverflow:     123456/username   from a "https://stackoverflow.com/users/123456/username" link
 #xing:              username
